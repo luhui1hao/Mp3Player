@@ -1,0 +1,13 @@
+[2015-12-27 20:08:20] [info]  [10080] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2015-12-27 20:08:20] [info]  [10080] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2015-12-27 20:08:22] [info]  [10080] Service 'Tomcat8' installed
+[2015-12-27 20:08:22] [info]  [10080] Commons Daemon procrun finished
+[2015-12-27 20:08:34] [info]  [ 4700] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2015-12-27 20:08:34] [info]  [ 4700] Running 'Tomcat8' Service...
+[2015-12-27 20:08:34] [info]  [ 7588] Starting service...
+[2015-12-27 20:08:36] [info]  [ 7588] Service started in 1197 ms.
+[2015-12-28 15:26:20] [info]  [12596] Console SHUTDOWN event signaled
+[2015-12-28 15:26:20] [info]  [12596] Stopping service...
+[2015-12-28 15:26:21] [info]  [12596] Service stop thread completed.
+[2015-12-28 15:26:21] [info]  [ 4700] Run service finished.
+[2015-12-28 15:26:21] [info]  [ 4700] Commons Daemon procrun finished

@@ -1,0 +1,107 @@
+23-Nov-2015 13:08:34.244 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 13:08:34.338 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 13:08:34.400 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+23-Nov-2015 13:08:34.447 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 13:08:34.525 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:05:44.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.28
+23-Nov-2015 21:05:44.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2015 18:25:21 UTC
+23-Nov-2015 21:05:44.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.28.0
+23-Nov-2015 21:05:44.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8
+23-Nov-2015 21:05:44.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.2
+23-Nov-2015 21:05:44.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Nov-2015 21:05:44.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             I:\java 8\jre
+23-Nov-2015 21:05:44.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_20-b26
+23-Nov-2015 21:05:44.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Nov-2015 21:05:44.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:05:44.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:05:44.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:05:44.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:05:44.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=I:\TomCat\apache-tomcat-8.0.28\endorsed
+23-Nov-2015 21:05:44.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=I:\TomCat\apache-tomcat-8.0.28\temp
+23-Nov-2015 21:05:44.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Nov-2015 21:05:44.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=I:\TomCat\apache-tomcat-8.0.28\conf\logging.properties
+23-Nov-2015 21:05:44.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+23-Nov-2015 21:05:44.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+23-Nov-2015 21:05:44.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+23-Nov-2015 21:05:44.839 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+23-Nov-2015 21:05:44.839 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23-Nov-2015 21:05:45.818 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+23-Nov-2015 21:05:46.066 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:05:46.082 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:05:46.086 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2385 ms
+23-Nov-2015 21:05:46.128 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+23-Nov-2015 21:05:46.128 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.28
+23-Nov-2015 21:05:46.146 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\docs
+23-Nov-2015 21:05:46.816 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [237] milliseconds.
+23-Nov-2015 21:05:46.847 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\docs has finished in 701 ms
+23-Nov-2015 21:05:46.847 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\examples
+23-Nov-2015 21:05:47.427 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\examples has finished in 580 ms
+23-Nov-2015 21:05:47.427 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\host-manager
+23-Nov-2015 21:05:47.499 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\host-manager has finished in 71 ms
+23-Nov-2015 21:05:47.499 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\manager
+23-Nov-2015 21:05:47.538 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\manager has finished in 39 ms
+23-Nov-2015 21:05:47.539 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\mp3
+23-Nov-2015 21:05:47.564 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\mp3 has finished in 26 ms
+23-Nov-2015 21:05:47.564 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\myXML
+23-Nov-2015 21:05:47.626 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\myXML has finished in 62 ms
+23-Nov-2015 21:05:47.626 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\ROOT
+23-Nov-2015 21:05:47.652 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\ROOT has finished in 26 ms
+23-Nov-2015 21:05:47.693 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:05:47.706 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:05:47.707 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1621 ms
+23-Nov-2015 21:15:18.300 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:15:18.357 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:15:18.409 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+23-Nov-2015 21:15:18.453 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:15:18.504 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:15:27.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.28
+23-Nov-2015 21:15:27.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2015 18:25:21 UTC
+23-Nov-2015 21:15:27.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.28.0
+23-Nov-2015 21:15:27.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8
+23-Nov-2015 21:15:27.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.2
+23-Nov-2015 21:15:27.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Nov-2015 21:15:27.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             I:\java 8\jre
+23-Nov-2015 21:15:27.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_20-b26
+23-Nov-2015 21:15:27.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Nov-2015 21:15:27.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:15:27.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=I:\TomCat\apache-tomcat-8.0.28
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=I:\TomCat\apache-tomcat-8.0.28\endorsed
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=I:\TomCat\apache-tomcat-8.0.28\temp
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=I:\TomCat\apache-tomcat-8.0.28\conf\logging.properties
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+23-Nov-2015 21:15:27.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+23-Nov-2015 21:15:27.790 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+23-Nov-2015 21:15:27.791 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23-Nov-2015 21:15:28.596 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+23-Nov-2015 21:15:28.796 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:15:28.813 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:15:28.817 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1696 ms
+23-Nov-2015 21:15:28.859 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+23-Nov-2015 21:15:28.859 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.28
+23-Nov-2015 21:15:28.888 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\docs
+23-Nov-2015 21:15:29.547 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [208] milliseconds.
+23-Nov-2015 21:15:29.574 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\docs has finished in 686 ms
+23-Nov-2015 21:15:29.574 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\examples
+23-Nov-2015 21:15:30.092 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\examples has finished in 518 ms
+23-Nov-2015 21:15:30.093 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\host-manager
+23-Nov-2015 21:15:30.150 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\host-manager has finished in 57 ms
+23-Nov-2015 21:15:30.150 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\manager
+23-Nov-2015 21:15:30.201 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\manager has finished in 51 ms
+23-Nov-2015 21:15:30.202 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\mp3
+23-Nov-2015 21:15:30.236 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\mp3 has finished in 34 ms
+23-Nov-2015 21:15:30.237 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\myXML
+23-Nov-2015 21:15:30.281 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\myXML has finished in 43 ms
+23-Nov-2015 21:15:30.281 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\ROOT
+23-Nov-2015 21:15:30.324 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\TomCat\apache-tomcat-8.0.28\webapps\ROOT has finished in 42 ms
+23-Nov-2015 21:15:30.330 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 21:15:30.358 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 21:15:30.361 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1542 ms
+23-Nov-2015 23:24:55.428 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 23:24:55.491 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+23-Nov-2015 23:24:55.553 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+23-Nov-2015 23:24:55.584 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+23-Nov-2015 23:24:55.647 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]

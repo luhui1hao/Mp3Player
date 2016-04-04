@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/player_layout">
+
+    <Button
+        android:id="@+id/bofang_btn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/_pause" />
+    <Button
+        android:id="@+id/shangyishou"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@id/bofang_btn"
+        android:layout_toLeftOf="@id/bofang_btn"
+        android:layout_margin="10dp"
+        android:background="@drawable/_shangyishou" />
+
+    <Button
+        android:id="@+id/xiayishou"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@id/bofang_btn"
+        android:layout_toRightOf="@id/bofang_btn"
+        android:layout_margin="10dp"
+        android:background="@drawable/_xiayishou" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="350dp" >
+
+        <TextView
+            android:id="@+id/lrc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+    </ScrollView>
+
+</RelativeLayout>

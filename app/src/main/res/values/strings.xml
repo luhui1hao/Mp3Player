@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mp3Player</string>
+    <string name="sure">确认</string>
+    <string name="hint">请输入IP地址</string>
+    <string name="ip">IP设置</string>
+    <string name="del">删除</string>
+    <string name="del_all">删除所有已下载歌曲</string>
+</resources>

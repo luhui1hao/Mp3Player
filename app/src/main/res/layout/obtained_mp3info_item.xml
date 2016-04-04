@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/middle_orange"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/mp3_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/mp3_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10pt"
+        android:layout_below="@id/mp3_name"/>
+
+    <Button
+        android:id="@+id/item_menu_btn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/item_menu_btn"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+29-Nov-2015 12:52:35.236 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Nov-2015 12:52:35.236 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()

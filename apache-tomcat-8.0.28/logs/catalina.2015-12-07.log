@@ -1,0 +1,5 @@
+07-Dec-2015 22:30:30.793 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+07-Dec-2015 22:30:30.872 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+07-Dec-2015 22:30:30.934 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+07-Dec-2015 22:30:30.981 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+07-Dec-2015 22:30:31.043 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
